@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Nexpose",
-    "description": "Nexpose"
+    "description": "Nexpose",
+    "owner": "Nexpose"
   },
   "detail": {
     "contributors": [],
